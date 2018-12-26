@@ -1,0 +1,17 @@
+genChinese=true
+
+bin=D:\\ps3\\hanhua\\isopatcher\\bak\\FILELINK.BIN
+hackbin=D:\\ps3\\hanhua\\isopatcher\\FILELINK.BIN
+#### which dir to save exported text, split files, dump img
+export=D:\\ps3\\hanhua\\toysdream\\
+
+desktop=C:\\Users\\Administrator\\Desktop\\
+
+
+#bin=F:\\JING\\isopatcher\\bak\\FILELINK.BIN
+#hackbin=F:\\JING\\isopatcher\\FILELINK.BIN
+#
+##### where to store exported text
+#export=F:\\JING\\toysdream\\
+#
+#desktop=C:\\Users\\me\\Desktop\\
